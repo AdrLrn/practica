@@ -1,0 +1,8 @@
+Transaction
+"Account transactions from July 1, 2023 to July 5, 2023
+Date, Description, Money out, Money in, Balance
+Jul 1, 2023, To USD vault, $2,000.00, $18.89, 
+Jul 5, 2023, Exchanged to USD, $2.19, $21.08,
+Jul 5, 2023, Exchanged to RON, $2.00, $19.08, 
+Jul 5, 2023, Exchanged to USD, $5.43, $24.51, 
+Jul 5, 2023, Exchanged to EUR, $3.00, $21.51"

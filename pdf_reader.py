@@ -20,6 +20,7 @@ def extract_text_from_pdf(pdf_path):
 
 
 
+
 def extract_transactions_from_pdf(pdf_path):
     # Extract text from the PDF file
     with pdfplumber.open(pdf_path) as pdf:
